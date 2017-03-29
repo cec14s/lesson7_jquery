@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+03/29/2017
 
 ### Student Name:  
-(First and Last Name)
+Codi Cain
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The following project allows us to explore the use of jQuery and methods of DOM traversing, animations, and types of syntax, selections and events.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cec14s.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To be able to access elements using jQuery syntax, selections, and events to create interactive webpages.
+2. The use of build-in jQuery syntax to easily build displays within the .js files. 
+3.  To be able to be able to use commonly used jQuery to be able to implement effects with minimal code. 
