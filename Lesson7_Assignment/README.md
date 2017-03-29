@@ -13,7 +13,7 @@ Codi Cain
 The following project allows us to explore the use of jQuery and methods of DOM traversing, animations, and types of syntax, selections and events.
 
 ### View Project:
-https://cec14s.github.io/lesson7_jquery/
+https://cec14s.github.io/lesson7_jquery/Lesson7_Assignment/   
 
 ### Lessons Learned in the Assignment:
 1. To be able to access elements using jQuery syntax, selections, and events to create interactive webpages.
